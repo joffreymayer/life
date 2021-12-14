@@ -1,9 +1,13 @@
 --- 
-title: "YOUR TITLE HERE"
-author: "YOUR NAME HERE"
+title: "Life"
+author: "Life"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
-# Down the rabbit-hole
+# Life
+
+Life is short and information nowadays is overflowing. And much of it is not worth much. That's why I made this bookdown in order to sort the stuff I consider to be important, relative to everything else that you can find out there. 
+
+I hope that - maybe - this will help you in the future =)
 
