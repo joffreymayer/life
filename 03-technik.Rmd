@@ -1,0 +1,126 @@
+# Technik
+
+Hier gebe ich dir nützliche Tipps für alles Digitale.
+
+## Mac Tricks
+
+### Öffne die Developer-Tools von Google-Chrome
+
+- `command + shift + i`
+
+### Speichern 
+
+- `command + s`
+
+### Speichern Unter
+
+- `shift + option + command + s`
+
+### Finder 
+
+- `command + leerschlag`
+
+### Programm schliessen
+
+- `command + q`
+
+### Neuer Ordner 
+
+- `shift + command + n`
+
+### Tilde Zeichen
+
+Das ist nützlich für shortcuts im Terminal, wenn man das Working Directory festlegt: 
+
+- `option + n`
+
+### Backslash 
+
+Useful for paths within the Directory:
+
+- `option + shift + 7` 
+
+### Screenshot vom Bildschirm
+
+- `command + shift + 3`
+
+### Teil des Bildschirms Screen-Schoten 
+
+- `shift + command + 4`
+
+### Verlauf löschen in Chrome Browser 
+
+- `shift + command + entfernen`
+
+### Verlauf löschen Safari 
+
+- `command + alt + e`
+
+### Bildschirm Aufnahme 
+
+Funktioniert nur, wenn QuickTime Player aktiv ist:  
+
+- `option + command + n`
+
+### Lesezeichen in Google Chrome 
+
+- `command + d`
+
+### Search Console Pop Up 
+
+- `option + command + j`
+
+### Format Kopieren einer Zelle (in Numbers)
+
+- `option + command + c`
+
+### Format übertragen einer Zelle (in Numbers) 
+
+- `option + command + v`
+
+### Switch between Applications on your computer 
+
+- `command + tab`
+
+### Move Forward through Tabs 
+
+- `control + tab`
+
+### Zahl als Exponent 
+
+Geht nur in Pages oder Tablett!: 
+
+- `shift + control + command + „+“-Zeichen WÄHREND man die Zahl mit der Maus markiert` 
+
+Dann ist sie noch „normal“ und nicht tiefgestellt —> also so: zum Beispiel: 2.
+
+### Source-Code einer Webseite aufschalten 
+
+- `Option + CMD + u im Browser drücken`
+
+### Interaktive Code-Ansicht für das Abchecken von Webseiten 
+
+`fn + F12-Taste auf Touch Bar drücken`
+
+### Approximate Symbol `≈` 
+
+- `option + x`
+
+
+## Terminal Commands
+
+### Clear in Terminal 
+
+- `option + k` 
+
+### Open the Finder with current Wd   
+
+Type in the following within your terminal: 
+
+- `open ~`
+
+### Print the current Working Directory 
+
+Gebe im Terminal ein: 
+
+- `pwd`
