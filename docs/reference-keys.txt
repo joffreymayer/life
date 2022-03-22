@@ -31,6 +31,8 @@ terminal-commands
 clear-in-terminal
 open-the-finder-with-current-wd
 print-the-current-working-directory
+unternehmens-gründung
+rechtsform-einzelunternehmer-vs.-gmbh
 freunde-treffen
 organisation
 get-in-touch
